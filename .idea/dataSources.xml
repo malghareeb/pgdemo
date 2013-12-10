@@ -30,7 +30,8 @@
     <data-source source="LOCAL" name="Rails pgdemo: production" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="1db5234b-3a14-4a73-9c87-85d9353bd798">
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:pgdemo_production</jdbc-url>
-      <user-name>alghareebm</user-name>
+      <user-name>mybneyglohctbp</user-name>
+      <user-password>dfc3dfccdfeedf9fdfc2dfc2df9cdff2dfe5dfc1dfe4dfe8dfc7dfc7dfd2dfe6dfdfdfc1dfd3dfecdf99dfffdfdbdfdbdf87dfee</user-password>
       <libraries>
         <library>
           <url>file://$USER_HOME$/Library/Preferences/RubyMine50/jdbc-drivers/postgresql-driver-license.txt</url>
