@@ -19,8 +19,8 @@ development:
   encoding: unicode
   database: pgdemo_development
   pool: 5
-  username: alghareebm
-  password:
+  username: mybneyglohctbp
+  password:ifD5hh6XOkNBmmxLukyF3Uqq-D
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
@@ -48,13 +48,13 @@ test:
   encoding: unicode
   database: pgdemo_test
   pool: 5
-  username: alghareebm
-  password:
+  username: mybneyglohctbp
+  password:ifD5hh6XOkNBmmxLukyF3Uqq-D
 
 production:
   adapter: postgresql
   encoding: unicode
   database: pgdemo_production
   pool: 5
-  username: alghareebm
-  password:
+  username: mybneyglohctbp
+  password:ifD5hh6XOkNBmmxLukyF3Uqq-D
