@@ -56,5 +56,5 @@ production:
   encoding: unicode
   database: pgdemo_production
   pool: 5
-  username: alghareebm #mybneyglohctbp
-  password: #ifD5hh6XOkNBmmxLukyF3Uqq-D
+  username: mybneyglohctbp
+  password: ifD5hh6XOkNBmmxLukyF3Uqq-D
